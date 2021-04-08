@@ -286,3 +286,7 @@ rm students_csv
 __vsc_prompt_cmd_original
 rm students_test.csv
 rm courses_test.csv
+list
+ls --color=auto
+ls --color=auto
+ls --color=auto
