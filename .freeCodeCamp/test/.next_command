@@ -280,3 +280,5 @@ insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+\l
+ls --color=auto
