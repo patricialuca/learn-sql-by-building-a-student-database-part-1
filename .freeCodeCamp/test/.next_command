@@ -282,3 +282,6 @@ insert_data.sh
 ./insert_data.sh
 \l
 ls --color=auto
+rm students_csv
+__vsc_prompt_cmd_original
+rm students_test.csv
