@@ -290,3 +290,5 @@ list
 ls --color=auto
 ls --color=auto
 ls --color=auto
+pg dump --help
+pg_dump --help
